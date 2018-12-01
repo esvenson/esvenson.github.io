@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[espiclow.png](https://github.com/esvenson/esvenson.github.io/blob/master/espiclow.png)
+![espiclow.png](https://github.com/esvenson/esvenson.github.io/blob/master/espiclow.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
