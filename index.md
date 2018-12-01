@@ -3,6 +3,7 @@
 ![Image](espiclow.png)
 
 PhD Candidate at Case Western Reserve University School School of Medicine
+
 Expected graduation January 2019
 
 
