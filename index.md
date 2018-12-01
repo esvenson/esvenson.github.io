@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Elena Svenson
 
-You can use the [editor on GitHub](https://github.com/esvenson/esvenson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PhD Candidate at Case Western Reserve University School School of Medicine
+Expected graduation January 2019
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Skillset
+- In Silico: Python, R, Jupyter Lab, Unix, Biostatistics, Bioinformatics
+- In Vitro methods: Cell Culture, Proteomics, Drug Screening, PCR, Genetic manipulations
+- In Vivo methods: Murine models: surgery, subcutaneous cancer growth models, efficacy studies
 
-```markdown
-Syntax highlighted code block
 
-# Change test
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-![Image](espiclow.png)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/esvenson/esvenson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
